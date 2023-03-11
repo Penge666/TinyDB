@@ -99,7 +99,7 @@ gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
 - 该数据库只能单机使用。
 - 未加入事务等操作。
 
-## reference
+## Reference
 
 - [simple-db-in-c](https://github.com/flower-corp/simple-db-in-c)
 
