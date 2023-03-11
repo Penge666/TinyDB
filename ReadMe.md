@@ -98,3 +98,10 @@ gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)
 - 仓库中的B树实现不完整。
 - 该数据库只能单机使用。
 - 未加入事务等操作。
+
+## reference
+
+- [simple-db-in-c](https://github.com/flower-corp/simple-db-in-c)
+
+- [闲来无事，写个数据库吧](https://blog.csdn.net/weixin_51275728/article/details/124524036)
+
